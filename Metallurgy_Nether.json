@@ -1,0 +1,205 @@
+{
+	"ignatius": {
+		"template": "uniform",
+		"block": [
+			{ "name": "PoorOres:poor_ignatius_ore", "weight": 90 },
+			{ "name": "Metallurgy:nether.ore", "metadata": 0, "weight": 10 }
+		],
+		"material": "minecraft:netherrack",
+		"clusterSize": 8,
+		"numClusters": 56,
+		"chunkChance": 2,
+		"minHeight": 32,
+		"maxHeight": 128,
+		"retrogen": "false",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			-1
+		]
+	
+	},
+	"shadow_iron": {
+		"template": "uniform",
+		"block": [
+			{ "name": "PoorOres:poor_shadow_iron_ore", "weight": 90 },
+			{ "name": "Metallurgy:nether.ore", "metadata": 1, "weight": 10 }
+		],
+		"material": "minecraft:netherrack",
+		"clusterSize": 8,
+		"numClusters": 48,
+		"chunkChance": 2,
+		"minHeight": 32,
+		"maxHeight": 128,
+		"retrogen": "false",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			-1
+		]
+	},
+	"lemurite": {
+		"template": "uniform",
+		"block": [
+			{ "name": "PoorOres:poor_lemurite_ore", "weight": 90 },
+			{ "name": "Metallurgy:nether.ore", "metadata": 2, "weight": 10 }
+		],
+		"material": "minecraft:netherrack",
+		"clusterSize": 8,
+		"numClusters": 32,
+		"chunkChance": 2,
+		"minHeight": 32,
+		"maxHeight": 128,
+		"retrogen": "false",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			-1
+		]
+	},
+	"midasium": {
+		"template": "uniform",
+		"block": [
+			{ "name": "PoorOres:poor_midasium_ore", "weight": 90 },
+			{ "name": "Metallurgy:nether.ore", "metadata": 3, "weight": 10 }
+		],
+		"material": "minecraft:netherrack",
+		"clusterSize": 8,
+		"numClusters": 16,
+		"chunkChance": 2,
+		"minHeight": 32,
+		"maxHeight": 128,
+		"retrogen": "false",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			-1
+		]
+	},
+	"vyroxeres": {
+		"template": "uniform",
+		"block": [
+			{ "name": "PoorOres:poor_vyroxeres_ore", "weight": 90 },
+			{ "name": "Metallurgy:nether.ore", "metadata": 4, "weight": 10 }
+		],
+		"material": "minecraft:netherrack",
+		"clusterSize": 8,
+		"numClusters": 16,
+		"chunkChance": 2,
+		"minHeight": 32,
+		"maxHeight": 128,
+		"retrogen": "false",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			-1
+		]
+	},
+	"inolashite": {
+		"template": "uniform",
+		"block": [
+			{ "name": "PoorOres:poor_ceruclase_ore", "weight": 51 },
+			{ "name": "PoorOres:poor_alduorite_ore", "weight": 39 },
+			{ "name": "Metallurgy:nether.ore", "metadata": 5, "weight": 6 },
+			{ "name": "Metallurgy:nether.ore", "metadata": 6, "weight": 4 }
+		],
+		"material": "minecraft:netherrack",
+		"clusterSize": 8,
+		"numClusters": 6,
+		"chunkChance": 2,
+		"minHeight": 32,
+		"maxHeight": 128,
+		"retrogen": "false",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			-1
+		]
+	},
+	"kalendrite": {
+		"template": "uniform",
+		"block": [
+			{ "name": "PoorOres:poor_kalendrite_ore", "weight": 90 },
+			{ "name": "Metallurgy:nether.ore", "metadata": 7, "weight": 10 }
+		],
+		"material": "minecraft:netherrack",
+		"clusterSize": 8,
+		"numClusters": 5,
+		"chunkChance": 2,
+		"minHeight": 32,
+		"maxHeight": 128,
+		"retrogen": "false",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			-1
+		]
+	},
+	"vulcanite": {
+		"template": {
+			"type": "underfluid",
+			"genFluid": "minecraft:flowing_lava"
+		},
+		"block": [
+			{ "name": "denseores:block1", "metadata": 14, "weight": 1 },
+			{ "name": "Metallurgy:nether.ore", "metadata": 8, "weight": 84 },
+			{ "name": "PoorOres:poor_vulcanite_ore", "weight": 15 }
+		],
+		"material": [
+			"minecraft:netherrack",
+			"minecraft:soul_sand"
+		],
+		"clusterSize": 8,
+		"numClusters": 8,
+		"chunkChance": 4,
+		"minHeight": 0,
+		"maxHeight": 30,
+		"retrogen": false,
+		"biomRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			-1
+		]
+	},
+	"sanguinite": {
+		"template": {
+			"type": "uniform",
+			"generator": "geode",
+			"crust": "minecraft:obsidian",
+			"hollow": true,
+			"filler": [
+				{ "name": "minecraft:flowing_lava", "weight": 100 }
+			]
+		},
+		"block": [
+				{ "name": "PoorOres:poor_sanguinite_ore", "weight": 20 },
+				{ "name": "Metallurgy:nether.ore", "metadata": 9, "weight": 50 },
+				{ "name": "denseores:block1", "metadata": 15, "weight": 20 },
+				{ "name": "TConstruct:liquid.blood", "weight": 10 }
+		],
+		"material": [
+			"minecraft:netherrack",
+			"minecraft:flowing_lava"
+		],
+		"clusterSize": 64,
+		"numClusters": 1,
+		"chunkChance": 8,
+		"minHeight": 0,
+		"maxHeight": 128,
+		"retrogen": "false",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			-1
+		]
+	}
+}

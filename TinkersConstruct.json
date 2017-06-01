@@ -1,0 +1,63 @@
+{
+	"aluminum": {
+		"template": "uniform",
+		"block": [
+			{ "name": "PoorOres:poor_aluminum_ore", "weight": 90 },
+			{ "name": "TConstruct:SearedBrick", "metadata": 5, "weight": 10 }
+		],
+		"material": "minecraft:stone",
+		"clusterSize": 8,
+		"numClusters": 34,
+		"chunkChance": 2,
+		"minHeight": 0,
+		"maxHeight": 72,
+		"retrogen": "false",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "blacklist",
+		"dimensions": [
+			-1,
+			1
+		]
+	},
+	"ardite": {
+		"template": "uniform",
+		"block": [
+			{ "name": "PoorOres:poor_ardite_ore", "weight": 90 },
+			{ "name": "TConstruct:SearedBrick", "metadata": 2, "weight": 10 }
+		],
+		"material": "minecraft:netherrack",
+		"clusterSize": 6,
+		"numClusters": 8,
+		"chunkChance": 2,
+		"minHeight": 32,
+		"maxHeight": 256,
+		"retrogen": "false",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			-1
+		]
+	},
+	"cobalt": {
+		"template": "uniform",
+		"block": [
+			{ "name": "PoorOres:poor_cobalt_ore", "weight": 90 },
+			{ "name": "TConstruct:SearedBrick", "metadata": 1, "weight": 10 }
+		],
+		"material": "minecraft:netherrack",
+		"clusterSize": 6,
+		"numClusters": 5,
+		"chunkChance": 2,
+		"minHeight": 32,
+		"maxHeight": 256,
+		"retrogen": "false",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			-1
+		]
+	}
+}

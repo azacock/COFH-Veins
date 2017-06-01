@@ -1,0 +1,502 @@
+{
+	"prometheum_average": {
+		"template": {
+			"type": "fractal",
+			"generator": "large-vein",
+			"sparse": "false"
+		},
+		"block": [
+			{
+				"name": "denseores:block2",
+				"weight": 10
+			},
+			{
+				"name": "Metallurgy:fantasy.ore",
+				"weight": 30
+			},
+			{
+				"name": "PoorOres:poor_prometheum_ore",
+				"weight": 40
+			},
+			{
+				"name": "minecraft:gravel",
+				"weight": 20
+			}
+		],
+		"material": [
+			"minecraft:stone",
+			"minecraft:grass",
+			"minecraft:dirt"
+		],
+		"numClusters": 7,
+		"chunkChance": 900,
+		"clusterSize": 256,
+		"minHeight": 40,
+		"veinHeight": 24,
+		"veinDiameter": 64,
+		"verticalDensity": 100,
+		"horizontalDensity": 50,
+		"retrogen": "true",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			7
+		]
+	},
+	"oureclase_average": {
+		"template": {
+			"type": "fractal",
+			"generator": "large-vein",
+			"sparse": "false"
+		},
+		"block": [
+		{
+			"name": "denseores:block2",
+			"metadata": 3,
+			"weight": 10
+		},
+		{
+			"name": "Metallurgy:fantasy.ore",
+			"metadata": 4,
+			"weight": 30
+		},
+		{
+			"name": "PoorOres:poor_oureclase_ore",
+			"weight": 40
+		},
+		{
+			"name": "minecraft:gravel",
+			"weight": 20
+		}
+		],
+		"material": [
+			"minecraft:stone",
+			"minecraft:grass",
+			"minecraft:dirt"
+		],
+		"numClusters": 6,
+		"chunkChance": 900,
+		"clusterSize": 256,
+		"minHeight": 36,
+		"veinHeight": 24,
+		"veinDiameter": 64,
+		"verticalDensity": 100,
+		"horizontalDensity": 50,
+		"retrogen": "true",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			7
+		]
+	},
+	"deep_iron_average": {
+		"template": {
+			"type": "fractal",
+			"generator": "large-vein",
+			"sparse": "false"
+		},
+		"block": [
+		{
+			"name": "denseores:block2",
+			"metadata": 1,
+			"weight": 10
+		},
+		{
+			"name": "Metallurgy:fantasy.ore",
+			"metadata": 1,
+			"weight": 30
+		},
+		{
+			"name": "PoorOres:poor_deep_iron_ore",
+			"weight": 40
+		},
+		{
+			"name": "minecraft:gravel",
+			"weight": 20
+		}
+		],
+		"material": [
+			"minecraft:stone",
+			"minecraft:grass",
+			"minecraft:dirt"
+		],
+		"numClusters": 5,
+		"chunkChance": 900,
+		"clusterSize": 256,
+		"minHeight": 32,
+		"veinHeight": 24,
+		"veinDiameter": 64,
+		"verticalDensity": 100,
+		"horizontalDensity": 50,
+		"retrogen": "true",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			7
+		]
+	},
+	"infuscolium_average": {
+		"template": {
+			"type": "fractal",
+			"generator": "large-vein",
+			"sparse": "false"
+		},
+		"block": [
+		{
+			"name": "denseores:block2",
+			"metadata": 2,
+			"weight": 10
+		},
+		{
+			"name": "Metallurgy:fantasy.ore",
+			"metadata": 2,
+			"weight": 30
+		},
+		{
+			"name": "PoorOres:poor_infuscolium_ore",
+			"weight": 40
+		},
+		{
+			"name": "minecraft:gravel",
+			"weight": 20
+		}
+		],
+		"material": [
+			"minecraft:stone",
+			"minecraft:grass",
+			"minecraft:dirt"
+		],
+		"numClusters": 4,
+		"chunkChance": 900,
+		"clusterSize": 256,
+		"minHeight": 30,
+		"veinHeight": 24,
+		"veinDiameter": 64,
+		"verticalDensity": 100,
+		"horizontalDensity": 50,
+		"retrogen": "true",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			7
+		]
+	},
+	"astral_silver_average": {
+		"template": {
+			"type": "fractal",
+			"generator": "large-vein",
+			"sparse": "false"
+		},
+		"block": [
+			{
+				"name": "denseores:block2",
+				"metadata": 4,
+				"weight": 10
+			},
+			{
+				"name": "Metallurgy:fantasy.ore",
+				"metadata": 5,
+				"weight": 30
+			},
+			{
+				"name": "PoorOres:poor_astral_silver_ore",
+				"weight": 40
+			},
+			{
+				"name": "minecraft:gravel",
+				"weight": 20
+			}
+		],
+		"clusterSize": 64,
+		"numClusters": 150,
+		"chunkChance": 900,
+		"minHeight": 0,
+		"veinHeight": 40,
+		"veinDiameter": 48,
+		"verticalDensity": 15,
+		"horizontalDensity": 15,
+		"retrogen": false,
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			7
+		]
+	},
+	"carmot_average": {
+		"template": {
+			"type": "fractal",
+			"generator": "large-vein",
+			"sparse": "false"
+		},
+		"block": [
+		{
+			"name": "denseores:block2",
+			"metadata": 5,
+			"weight": 10
+		},
+		{
+			"name": "Metallurgy:fantasy.ore",
+			"metadata": 6,
+			"weight": 30
+		},
+		{
+			"name": "PoorOres:poor_gold_ore",
+			"weight": 40
+		},
+		{
+			"name": "minecraft:gravel",
+			"weight": 20
+		}
+		],
+		"clusterSize": 64,
+		"numClusters": 120,
+		"chunkChance": 900,
+		"minHeight": 0,
+		"veinHeight": 40,
+		"veinDiameter": 48,
+		"verticalDensity": 15,
+		"horizontalDensity": 15,
+		"retrogen": false,
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			7
+		]
+	},
+	"mithril_average": {	
+		"template": {
+			"type": "fractal",
+			"generator": "large-vein",
+			"sparse": "false"
+		},
+		"block": [
+		{
+			"name": "denseores:block2",
+			"metadata": 6,
+			"weight": 10
+		},
+		{
+			"name": "Metallurgy:fantasy.ore",
+			"metadata": 7,
+			"weight": 30
+		},
+		{
+			"name": "PoorOres:poor_mithril_ore",
+			"weight": 40
+		},
+		{
+			"name": "minecraft:gravel",
+			"weight": 20
+		}
+		],
+		"material": [
+			"minecraft:stone",
+			"minecraft:grass",
+			"minecraft:dirt"
+		],
+		"numClusters": 4,
+		"chunkChance": 900,
+		"clusterSize": 256,
+		"minHeight": 26,
+		"veinHeight": 24,
+		"veinDiameter": 64,
+		"verticalDensity": 100,
+		"horizontalDensity": 50,
+		"retrogen": "true",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			7
+		]
+	},
+	"rubracium_average": {
+		"template": {
+			"type": "fractal",
+			"generator": "large-vein",
+			"sparse": "false"
+		},
+		"block": [
+		{
+			"name": "denseores:block2",
+			"metadata": 7,
+			"weight": 10
+		},
+		{
+			"name": "Metallurgy:fantasy.ore",
+			"metadata": 7,
+			"weight": 30
+		},
+		{
+			"name": "PoorOres:poor_rubracium_ore",
+			"weight": 40
+		},
+		{
+			"name": "minecraft:gravel",
+			"weight": 20
+		}
+		],
+		"clusterSize": 32,
+		"numClusters": 96,
+		"chunkChance": 900,
+		"minHeight": 0,
+		"veinHeight": 20,
+		"veinDiameter": 48,
+		"verticalDensity": 15,
+		"horizontalDensity": 15,
+		"retrogen": false,
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			7
+		]
+	},
+	"orichalcum_average": {	
+		"template": {
+			"type": "fractal",
+			"generator": "large-vein",
+			"sparse": "false"
+		},
+		"block": [
+		{
+			"name": "denseores:block2",
+			"metadata": 8,
+			"weight": 10
+		},
+		{
+			"name": "Metallurgy:fantasy.ore",
+			"metadata": 11,
+			"weight": 30
+		},
+		{
+			"name": "PoorOres:poor_orichalcum_ore",
+			"weight": 40
+		},
+		{
+			"name": "minecraft:gravel",
+			"weight": 20
+		}
+		],
+		"material": [
+			"minecraft:stone",
+			"minecraft:grass",
+			"minecraft:dirt"
+		],
+		"numClusters": 3,
+		"chunkChance": 900,
+		"clusterSize": 256,
+		"minHeight": 20,
+		"veinHeight": 24,
+		"veinDiameter": 64,
+		"verticalDensity": 100,
+		"horizontalDensity": 50,
+		"retrogen": "true",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			7
+		]
+	},
+	"adamantine_average": {	
+		"template": {
+			"type": "fractal",
+			"generator": "large-vein",
+			"sparse": "false"
+		},
+		"block": [
+		{
+			"name": "denseores:block2",
+			"metadata": 9,
+			"weight": 10
+		},
+		{
+			"name": "Metallurgy:fantasy.ore",
+			"metadata": 13,
+			"weight": 30
+		},
+		{
+			"name": "PoorOres:poor_adamantine_ore",
+			"weight": 40
+		},
+		{
+			"name": "minecraft:gravel",
+			"weight": 20
+		}
+		],
+		"material": [
+			"minecraft:stone",
+			"minecraft:grass",
+			"minecraft:dirt"
+		],
+		"numClusters": 3,
+		"chunkChance": 900,
+		"clusterSize": 228,
+		"minHeight": 6,
+		"veinHeight": 24,
+		"veinDiameter": 64,
+		"verticalDensity": 100,
+		"horizontalDensity": 50,
+		"retrogen": "true",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			7
+		]
+	},
+	"atlarus_average": {	
+		"template": {
+			"type": "fractal",
+			"generator": "large-vein",
+			"sparse": "false"
+		},
+		"block": [
+		{
+			"name": "denseores:block2",
+			"metadata": 10,
+			"weight": 10
+		},
+		{
+			"name": "Metallurgy:fantasy.ore",
+			"metadata": 14,
+			"weight": 30
+		},
+		{
+			"name": "PoorOres:poor_adamantine_ore",
+			"weight": 40
+		},
+		{
+			"name": "minecraft:gravel",
+			"weight": 20
+		}
+		],
+		"material": [
+			"minecraft:stone",
+			"minecraft:grass",
+			"minecraft:dirt"
+		],
+		"numClusters": 3,
+		"chunkChance": 900,
+		"clusterSize": 200,
+		"minHeight": 0,
+		"veinHeight": 24,
+		"veinDiameter": 64,
+		"verticalDensity": 100,
+		"horizontalDensity": 50,
+		"retrogen": "true",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			7
+		]
+	}
+}

@@ -1,0 +1,445 @@
+{
+	"ignatius_poor": {
+		"template": {
+			"type": "fractal",
+			"generator": "large-vein",
+			"sparse": "false"
+		},
+		"block": [
+			{
+				"name": "denseores:block1",
+				"metadata": 6,
+				"weight": 0
+			},
+			{
+				"name": "Metallurgy:nether.ore",
+				"metadata": 0,
+				"weight": 10
+			},
+			{
+				"name": "PoorOres:poor_ignatius_ore",
+				"weight": 70
+			},
+			{
+				"name": "minecraft:gravel",
+				"weight": 10
+			},
+			{ "name": "minecraft:flowing_lava",
+				"weight": 10
+			}
+		],
+		"material": [
+			"minecraft:netherrack"
+		],
+		"numClusters": 6,
+		"chunkChance": 900,
+		"clusterSize": 256,
+		"minHeight": 60,
+		"veinHeight": 40,
+		"veinDiameter": 64,
+		"verticalDensity": 50,
+		"horizontalDensity": 50,
+		"retrogen": "false",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			-1
+		]
+	},
+	"shadow_iron_poor": {
+		"template": {
+			"type": "fractal",
+			"generator": "large-vein",
+			"sparse": "false"
+		},
+		"block": [
+			{
+				"name": "denseores:block1",
+				"metadata": 7,
+				"weight": 0
+			},
+			{
+				"name": "Metallurgy:nether.ore",
+				"metadata": 1,
+				"weight": 10
+			},
+			{
+				"name": "PoorOres:poor_shadow_iron_ore",
+				"weight": 70
+			},
+			{
+				"name": "minecraft:gravel",
+				"weight": 10
+			},
+			{ "name": "minecraft:flowing_lava",
+				"weight": 10
+			}
+		],
+		"material": [
+			"minecraft:netherrack"
+		],
+		"numClusters": 5,
+		"chunkChance": 900,
+		"clusterSize": 256,
+		"minHeight": 60,
+		"veinHeight": 40,
+		"veinDiameter": 64,
+		"verticalDensity": 50,
+		"horizontalDensity": 50,
+		"retrogen": "false",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "blacklist",
+		"dimensions": [
+			-1
+		]
+	},
+	"lemurite_poor": {
+		"template": {
+			"type": "fractal",
+			"generator": "large-vein",
+			"sparse": "false"
+		},
+		"block": [
+			{
+				"name": "denseores:block1",
+				"metadata": 8,
+				"weight": 0
+			},
+			{
+				"name": "Metallurgy:nether.ore",
+				"metadata": 2,
+				"weight": 10
+			},
+			{
+				"name": "PoorOres:poor_lemurite_ore",
+				"weight": 70
+			},
+			{
+				"name": "minecraft:gravel",
+				"weight": 10
+			},
+			{ "name": "minecraft:flowing_lava",
+				"weight": 10
+			}
+		],
+		"material": [
+			"minecraft:netherrack"
+		],
+		"numClusters": 4,
+		"chunkChance": 900,
+		"clusterSize": 256,
+		"minHeight": 80,
+		"veinHeight": 40,
+		"veinDiameter": 64,
+		"verticalDensity": 100,
+		"horizontalDensity": 50,
+		"retrogen": "false",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			-1
+		]
+	},
+	"midasium_poor": {
+		"template": {
+			"type": "fractal",
+			"generator": "large-vein",
+			"sparse": "false"
+		},
+		"block": [
+			{
+				"name": "denseores:block1",
+				"metadata": 9,
+				"weight": 0
+			},
+			{
+				"name": "Metallurgy:nether.ore",
+				"metadata": 3,
+				"weight": 10
+			},
+			{
+				"name": "PoorOres:poor_midasium_ore",
+				"weight": 70
+			},
+			{
+				"name": "minecraft:gravel",
+				"weight": 10
+			},
+			{ "name": "minecraft:flowing_lava",
+				"weight": 10
+			}
+		],
+		"clusterSize": 64,
+		"numClusters": 120,
+		"chunkChance": 900,
+		"minHeight": 20,
+		"veinHeight": 40,
+		"veinDiameter": 48,
+		"verticalDensity": 15,
+		"horizontalDensity": 15,
+		"retrogen": false,
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			-1
+		]
+	},
+	"vyroxeres_poor": {
+		"template": {
+			"type": "fractal",
+			"generator": "large-vein",
+			"sparse": "false"
+		},
+		"block": [
+			{
+				"name": "denseores:block1",
+				"metadata": 10,
+				"weight": 0
+			},
+			{
+				"name": "Metallurgy:nether.ore",
+				"metadata": 4,
+				"weight": 10
+			},
+			{
+				"name": "PoorOres:poor_vyroxeres_ore",
+				"weight": 70
+			},
+			{
+				"name": "minecraft:gravel",
+				"weight": 10
+			},
+			{ "name": "minecraft:flowing_lava",
+				"weight": 10
+			}
+		],
+		"material": [
+			"minecraft:netherrack"
+		],
+		"numClusters": 4,
+		"chunkChance": 900,
+		"clusterSize": 256,
+		"minHeight": 90,
+		"veinHeight": 28,
+		"veinDiameter": 64,
+		"verticalDensity": 100,
+		"horizontalDensity": 50,
+		"retrogen": "false",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			-1
+		]
+	},
+	"inolashite_poor": {
+		"template": {
+			"type": "fractal",
+			"generator": "large-vein",
+			"sparse": "false"
+		},
+		"block": [
+			{
+				"name": "denseores:block1",
+				"metadata": 11,
+				"weight": 0
+			},
+			{
+				"name": "denseores:block1",
+				"metdata": 12,
+				"weight": 0
+			},
+			{
+				"name": "Metallurgy:nether.ore",
+				"metadata": 5,
+				"weight": 7
+			},
+			{
+				"name": "Metallurgy:nether.ore",
+				"metadata": 6,
+				"weight": 3
+			},
+			{
+				"name": "PoorOres:poor_ceruclase_ore",
+				"weight": 40
+			},
+			{
+						"name": "PoorOres:poor_alduorite_ore",
+				"weight": 30
+			},
+			{
+				"name": "minecraft:gravel",
+				"weight": 10
+			},
+			{ "name": "minecraft:flowing_lava",
+				"weight": 10
+			}
+		],
+		"material": [
+			"minecraft:netherrack"
+		],
+		"clusterSize": 64,
+		"numClusters": 150,
+		"chunkChance": 900,
+		"minHeight": 40,
+		"veinHeight": 48,
+		"veinDiameter": 64,
+		"verticalDensity": 100,
+		"horizontalDensity": 50,
+		"retrogen": "false",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "whitelist",
+		"dimensions": [
+			-1
+		]
+	},
+	"ardite_poor": {
+		"template": {
+			"type": "fractal",
+			"generator": "large-vein",
+			"sparse": "false"
+		},
+		"block": [
+			{
+				"name": "denseores:block3",
+				"metadata": 12,
+				"weight": 0
+			},
+			{
+				"name": "TConstruct:SearedBrick",
+				"metadata": 2,
+				"weight": 10
+			},
+			{
+				"name": "PoorOres:poor_ardite_ore",
+				"weight": 70
+			},
+			{
+				"name": "minecraft:gravel",
+				"weight": 10
+			},
+			{ "name": "minecraft:flowing_lava",
+				"weight": 10
+			}
+		],
+		"material": [
+			"minecraft:netherrack"
+		],
+		"numClusters": 4,
+		"chunkChance": 900,
+		"clusterSize": 128,
+		"minHeight": 100,
+		"veinHeight": 28,
+		"veinDiameter": 64,
+		"verticalDensity": 100,
+		"horizontalDensity": 50,
+		"retrogen": "false",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "blacklist",
+		"dimensions": [
+			-1
+		]
+	},
+	"kalendrite_poor": {
+		"template": {
+			"type": "fractal",
+			"generator": "large-vein",
+			"sparse": "false"
+		},
+		"block": [
+			{
+				"name": "denseores:block1",
+				"metadata": 13,
+				"weight": 0
+			},
+			{
+				"name": "Metallurgy:nether.ore",
+				"metadata": 7,
+				"weight": 10
+			},
+			{
+				"name": "PoorOres:poor_kalendrite_ore",
+				"weight": 70
+			},
+			{
+				"name": "minecraft:gravel",
+				"weight": 10
+			},
+			{ "name": "minecraft:flowing_lava",
+				"weight": 10
+			}
+		],
+		"material": [
+			"minecraft:netherrack"
+		],
+		"numClusters": 100,
+		"clusterSize": 64,
+		"chunkChance": 900,
+		"minHeight": 40,
+		"veinHeight": 32,
+		"veinDiameter": 64,
+		"verticalDensity": 100,
+		"horizontalDensity": 50,
+		"retrogen": "false",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "blacklist",
+		"dimensions": [
+			-1
+		]
+	},
+	"cobalt_poor": {
+		"template": {
+			"type": "fractal",
+			"generator": "large-vein",
+			"sparse": "false"
+		},
+		"block": [
+			{
+				"name": "denseores:block3",
+				"metadata": 13,
+				"weight": 0
+			},
+			{
+				"name": "TConstruct:SearedBrick",
+				"metadata": 1,
+				"weight": 10
+			},
+			{
+				"name": "PoorOres:poor_cobalt_ore",
+				"weight": 70
+			},
+			{
+				"name": "minecraft:gravel",
+				"weight": 10
+			},
+			{ "name": "minecraft:flowing_lava",
+				"weight": 10
+			}
+		],
+		"material": [
+			"minecraft:netherrack"
+		],
+		"numClusters": 4,
+		"chunkChance": 900,
+		"clusterSize": 128,
+		"minHeight": 10,
+		"veinHeight": 32,
+		"veinDiameter": 64,
+		"verticalDensity": 100,
+		"horizontalDensity": 50,
+		"retrogen": "false",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "blacklist",
+		"dimensions": [
+			-1
+		]
+	}
+}

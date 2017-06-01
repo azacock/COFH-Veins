@@ -1,0 +1,182 @@
+{
+	"dirt": {
+		"template": "uniform",
+			"block": [
+				{ "name": "dirt", "weight": 90 },
+				{ "name": "clay", "weight": 10 }
+			],
+			"material": "minecraft:stone",
+			"clusterSize": 32,
+			"numClusters": 5,
+			"minHeight": 0,
+			"maxHeight": 128,
+			"retrogen": "false",
+			"biomeRestriction": "none",
+			"biomes": [],
+			"dimensionRestriction": "blacklist",
+			"dimensions": [
+				-1,
+			1
+			]
+	},
+		"clay": {
+			"template": "uniform",
+			"block": "clay",
+			"material": "minecraft:dirt",
+			"clusterSize": 16,
+			"numClusters": 32,
+			"minHeight": 58,
+			"maxHeight": 128,
+			"retrogen": "false",
+			"biomeRestriction": "none",
+			"biomes": [],
+			"dimensionRestriction": "blacklist",
+			"dimensions": [
+				-1,
+			1
+			]
+		},
+		"gravel": {
+			"template": "uniform",
+			"block": "gravel",
+			"material": "stone",
+			"clusterSize": 32,
+			"numClusters": 10,
+			"minHeight": 0,
+			"maxHeight": 128,
+			"retrogen": "false",
+			"biomeRestriction": "none",
+			"biomes": [],
+			"dimensionRestriction": "blacklist",
+			"dimensions": [
+				-1,
+			1
+			]
+		},
+		"coal": {
+			"template": "uniform",
+			"block": [
+				{ "name": "PoorOres:poor_coal_ore", "weight": 90 },
+				{ "name": "coal_ore", "weight": 10 }
+			],
+			"material": "stone",
+			"clusterSize": 16,
+			"numClusters": 32,
+			"chunkChance": 2,
+			"minHeight": 0,
+			"maxHeight": 128,
+			"retrogen": "false",
+			"biomeRestriction": "none",
+			"biomes": [],
+			"dimensionRestriction": "blacklist",
+			"dimensions": [
+				-1,
+				1
+			]
+		},
+		"iron": {
+			"template": "uniform",
+			"block": [
+				{ "name": "PoorOres:poor_iron_ore", "weight": 90 },
+				{ "name": "iron_ore", "weight": 10 }
+			],
+			"material": "minecraft:stone",
+			"clusterSize": 8,
+			"numClusters": 5,
+			"chunkChance": 2,
+			"minHeight": 0,
+			"maxHeight": 64,
+			"retrogen": "false",
+			"biomeRestriction": "none",
+			"biomes": [],
+			"dimensionRestriction": "blacklist",
+			"dimensions": [
+				-1,
+				1
+			]
+		},
+		"gold": {
+			"template": "uniform",
+			"block": [
+				{ "name": "PoorOres:poor_gold_ore", "weight": 90 },
+				{ "name": "gold_ore", "weight": 10 }
+			],
+			"material": "minecraft:stone",
+			"clusterSize": 8,
+			"numClusters": 2,
+			"chunkChance": 2,
+			"minHeight": 0,
+			"maxHeight": 32,
+			"retrogen": "false",
+			"biomeRestriction": "none",
+			"biomes": [],
+			"dimensionRestriction": "blacklist",
+			"dimensions": [
+				-1,
+				1
+			]
+		},
+		"redstone": {
+			"template": "uniform",
+			"block": [
+				{ "name": "PoorOres:poor_redstone_ore", "weight": 90 },
+				{ "name": "redstone_ore", "weight": 10 }
+			],
+			"material": "minecraft:stone",
+			"clusterSize": 7,
+			"numClusters": 8,
+			"chunkChance": 2,
+			"minHeight": 0,
+			"maxHeight": 16,
+			"retrogen": "false",
+			"biomeRestriction": "none",
+			"biomes": [],
+			"dimensionRestriction": "blacklist",
+			"dimensions": [
+				-1,
+				1
+			]
+		},
+		"diamond": {
+			"template": "uniform",
+			"block": [
+				{ "name": "PoorOres:poor_diamond_ore", "weight": 90 },
+				{ "name": "diamond_ore", "weight": 10 }
+			],
+			"material": "minecraft:stone",
+			"clusterSize": 7,
+			"numClusters": 1,
+			"chunkChance": 2,
+			"minHeight": 0,
+			"maxHeight": 16,
+			"retrogen": "false",
+			"biomeRestriction": "none",
+			"biomes": [],
+			"dimensionRestriction": "blacklist",
+			"dimensions": [
+				-1,
+				1
+			]
+		},
+		"lapis": {
+			"template": "normal",
+			"block": [
+				{ "name": "PoorOres:poor_lapis_ore", "weight": 90 },
+				{ "name": "lapis_ore", "weight": 10 }
+			],
+			"material": "minecraft:stone",
+			"clusterSize": 6,
+			"numClusters": 1,
+			"chunkChance": 2,
+			"meanHeight": 16,
+			"maxVariance": 16,
+			"retrogen": "false",
+			"biomeRestriction": "none",
+			"biomes": [],
+			"dimensionRestriction": "blacklist",
+			"dimensions": [
+				-1,
+				1
+			]
+		}
+}

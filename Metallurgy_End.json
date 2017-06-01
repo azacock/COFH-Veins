@@ -1,0 +1,44 @@
+{
+		"eximite": {
+			"template": "uniform",
+			"block": [
+				{ "name": "denseores:block2", "metadata": 15, "weight": 30 },
+				{ "name": "Metallurgy:ender.ore", "weight": 50 },
+				{ "name": "PoorOres:poor_eximite_ore", "weight": 20 }
+			],
+			"material": "minecraft:end_stone",
+			"clusterSize": 16,
+			"numClusters": 64,
+			"chunkChance": 1,
+			"minHeight": 0,
+			"maxHeight": 256,
+			"retrogen": "false",
+			"biomeRestriction": "none",
+			"biomes": [],
+			"dimensionRestriction": "whitelist",
+			"dimensions": [
+				1
+			]
+		},
+		"meutoite": {
+			"template": "uniform",
+			"block": [
+				{ "name": "denseores:block3", "metadata": 0, "weight": 30 },
+				{ "name": "Metallurgy:ender.ore", "metadata": 1, "weight": 50 },
+				{ "name": "PoorOres:poor_meutoite_ore", "weight": 20 }
+			],
+			"material": "minecraft:end_stone",
+			"clusterSize": 16,
+			"numClusters": 64,
+			"chunkChance": 1,
+			"minHeight": 0,
+			"maxHeight": 256,
+			"retrogen": "false",
+			"biomeRestriction": "none",
+			"biomes": [],
+			"dimensionRestriction": "whitelist",
+			"dimensions": [
+				1
+			]
+		}
+}
