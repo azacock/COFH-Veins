@@ -49,7 +49,8 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+						7
         ]
     },
     "emerald_geode": {
@@ -102,7 +103,8 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+						7
         ]
     },
     "coal_stalagmites": {
@@ -236,7 +238,8 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+						7
         ]
     },
     "quartz": {

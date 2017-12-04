@@ -2,8 +2,7 @@
 	"aluminum": {
 		"template": "uniform",
 		"block": [
-			{ "name": "PoorOres:poor_aluminum_ore", "weight": 90 },
-			{ "name": "TConstruct:SearedBrick", "metadata": 5, "weight": 10 }
+			{ "name": "PoorOres:poor_aluminum_ore", "weight": 90 }
 		],
 		"material": "minecraft:stone",
 		"clusterSize": 8,

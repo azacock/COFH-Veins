@@ -44,7 +44,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"copper_poor": {
@@ -90,7 +91,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"tin_poor": {
@@ -138,7 +140,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"iron_poor": {
@@ -184,7 +187,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"manganese_poor": {
@@ -232,7 +236,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"lead_poor": {
@@ -279,7 +284,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"nickel_poor": {
@@ -327,7 +333,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"zinc_poor": {
@@ -369,7 +376,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"silver_poor": {
@@ -412,7 +420,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"gold_poor": {
@@ -454,7 +463,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"platinum_poor": {
@@ -497,7 +507,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"redstone_poor": {
@@ -539,7 +550,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"lapis_poor": {
@@ -581,7 +593,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	}
 }

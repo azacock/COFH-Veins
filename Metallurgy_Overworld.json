@@ -2,8 +2,7 @@
 	"copper": {
 		"template": "uniform",
 		"block": [
-			{ "name": "PoorOres:poor_copper_ore", "weight": 90 },
-			{ "name": "Metallurgy:base.ore", "metadata": 0, "weight": 10 }
+			{ "name": "PoorOres:poor_copper_ore", "weight": 90 }
 		],
 		"material": "minecraft:stone",
 		"clusterSize": 8,
@@ -23,8 +22,7 @@
 	"tin": {
 		"template": "uniform",
 		"block": [
-			{ "name": "PoorOres:poor_tin_ore", "weight": 90 },
-			{ "name": "Metallurgy:base.ore", "metadata": 1, "weight": 10 }
+			{ "name": "PoorOres:poor_tin_ore", "weight": 90 }
 		],
 		"material": "minecraft:stone",
 		"clusterSize": 8,
@@ -44,8 +42,7 @@
 	"manganese": {
 		"template": "uniform",
 		"block": [
-			{ "name": "PoorOres:poor_manganese_ore", "weight": 90 },
-			{ "name": "Metallurgy:base.ore", "metadata": 2, "weight": 10 }
+			{ "name": "PoorOres:poor_manganese_ore", "weight": 90 }
 		],
 		"material": "minecraft:stone",
 		"clusterSize": 8,
@@ -197,8 +194,7 @@
 	"zinc": {
 		"template": "uniform",
 		"block": [
-			{ "name": "PoorOres:poor_zinc_ore", "weight": 90 },
-			{ "name": "Metallurgy:precious.ore", "metadata": 0, "weight": 10 }
+			{ "name": "PoorOres:poor_zinc_ore", "weight": 90 }
 		],
 		"material": "minecraft:stone",
 		"clusterSize": 8,
@@ -218,8 +214,7 @@
 	"silver": {
 		"template": "uniform",
 		"block": [
-			{ "name": "PoorOres:poor_silver_ore", "weight": 90 },
-			{ "name": "Metallurgy:precious.ore", "metadata": 1, "weight": 10 }
+			{ "name": "PoorOres:poor_silver_ore", "weight": 90 }
 		],
 		"material": "minecraft:stone",
 		"clusterSize": 8,
@@ -239,8 +234,7 @@
 	"platinum": {
 		"template": "uniform",
 		"block": [
-			{ "name": "PoorOres:poor_platinum_ore", "weight": 90 },
-			{ "name": "Metallurgy:precious.ore", "metadata": 2, "weight": 10 }
+			{ "name": "PoorOres:poor_platinum_ore", "weight": 90 }
 		],
 		"material": "minecraft:stone",
 		"clusterSize": 7,

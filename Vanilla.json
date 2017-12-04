@@ -56,8 +56,7 @@
 		"coal": {
 			"template": "uniform",
 			"block": [
-				{ "name": "PoorOres:poor_coal_ore", "weight": 90 },
-				{ "name": "coal_ore", "weight": 10 }
+				{ "name": "PoorOres:poor_coal_ore", "weight": 90 }
 			],
 			"material": "stone",
 			"clusterSize": 16,
@@ -77,8 +76,7 @@
 		"iron": {
 			"template": "uniform",
 			"block": [
-				{ "name": "PoorOres:poor_iron_ore", "weight": 90 },
-				{ "name": "iron_ore", "weight": 10 }
+				{ "name": "PoorOres:poor_iron_ore", "weight": 90 }
 			],
 			"material": "minecraft:stone",
 			"clusterSize": 8,
@@ -98,8 +96,7 @@
 		"gold": {
 			"template": "uniform",
 			"block": [
-				{ "name": "PoorOres:poor_gold_ore", "weight": 90 },
-				{ "name": "gold_ore", "weight": 10 }
+				{ "name": "PoorOres:poor_gold_ore", "weight": 90 }
 			],
 			"material": "minecraft:stone",
 			"clusterSize": 8,
@@ -119,8 +116,7 @@
 		"redstone": {
 			"template": "uniform",
 			"block": [
-				{ "name": "PoorOres:poor_redstone_ore", "weight": 90 },
-				{ "name": "redstone_ore", "weight": 10 }
+				{ "name": "PoorOres:poor_redstone_ore", "weight": 90 }
 			],
 			"material": "minecraft:stone",
 			"clusterSize": 7,
@@ -140,8 +136,7 @@
 		"diamond": {
 			"template": "uniform",
 			"block": [
-				{ "name": "PoorOres:poor_diamond_ore", "weight": 90 },
-				{ "name": "diamond_ore", "weight": 10 }
+				{ "name": "PoorOres:poor_diamond_ore", "weight": 90 }
 			],
 			"material": "minecraft:stone",
 			"clusterSize": 7,
@@ -161,8 +156,7 @@
 		"lapis": {
 			"template": "normal",
 			"block": [
-				{ "name": "PoorOres:poor_lapis_ore", "weight": 90 },
-				{ "name": "lapis_ore", "weight": 10 }
+				{ "name": "PoorOres:poor_lapis_ore", "weight": 90 }
 			],
 			"material": "minecraft:stone",
 			"clusterSize": 6,

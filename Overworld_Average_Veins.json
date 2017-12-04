@@ -28,14 +28,13 @@
 		],
 		"material": [
 			"minecraft:stone",
-			"minecraft:grass",
 			"minecraft:dirt"
 		],
 		"numClusters": 1,
 		"chunkChance": 25,
 		"clusterSize": 25,
 		"minHeight": 55,
-		"maxHeight": 65,
+		"maxHeight": 78,
 		"veinHeight": 5,
 		"veinDiameter": 64,
 		"verticalDensity": 64,
@@ -46,7 +45,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"aluminum_average": {
@@ -94,7 +94,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"copper_average": {
@@ -140,7 +141,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"tin_average": {
@@ -188,7 +190,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"iron_average": {
@@ -234,7 +237,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"manganese_average": {
@@ -282,7 +286,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"lead_average": {
@@ -330,7 +335,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"nickel_average": {
@@ -378,7 +384,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"zinc_average": {
@@ -420,7 +427,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"silver_average": {
@@ -463,7 +471,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"gold_average": {
@@ -505,7 +514,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"platinum_average": {
@@ -548,7 +558,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"redstone_average": {
@@ -590,7 +601,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	},
 	"lapis_average": {
@@ -632,7 +644,8 @@
 		"dimensionRestriction": "blacklist",
 		"dimensions": [
 			-1,
-			1
+			1,
+			7
 		]
 	}
 }
